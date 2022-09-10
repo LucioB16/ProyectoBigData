@@ -1,0 +1,5 @@
+﻿*.iml
+Criptomonedas/backend/venv
+Criptomonedas/backend/.idea/httpRequests
+Criptomonedas/backend/.idea/inspectionProfiles
+Criptomonedas/backend/__pycache__
